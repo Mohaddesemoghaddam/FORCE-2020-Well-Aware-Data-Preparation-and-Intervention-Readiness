@@ -1,0 +1,10 @@
+# Direct dependencies observed in the three notebooks; unpinned starter list.
+# Create an exact version lockfile after a successful validated rerun.
+numpy
+pandas
+matplotlib
+scikit-learn
+pyarrow
+jupyterlab
+ipykernel
+nbconvert
